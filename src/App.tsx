@@ -1,6 +1,6 @@
 import { ComponentFooter, ComponentHeader } from "./components";
 import { PageHome, PageList } from "./pages";
-import { GlobalStyle, Main } from "./styles/GlobalStyle";
+import { GlobalStyle, Main } from "./styles/GlobalStyles";
 import { Dispatch, SetStateAction, useState } from "react";
 
 export interface IPage {
